@@ -1,0 +1,656 @@
+.halaman1{
+    background-image: url(https://www.itl.cat/pngfile/big/317-3178139_pastels-aesthetic-computer-pastel-computer-backgrounds.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav{
+    margin-left: 780px;
+    margin-top: -50px;
+}
+td{
+    width: 120px;
+}
+.nv1{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.nv1 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .nv1 {
+    transition: all 0.3s;
+  }
+  .nv1::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .nv1:hover{
+    letter-spacing: 2px;
+  }
+  .nv1:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .nv1::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .nv1:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+.nv2{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.nv2 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .nv2 {
+    transition: all 0.3s;
+  }
+  .nv2::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .nv2:hover{
+    letter-spacing: 2px;
+  }
+  .nv2:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .nv2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .nv2:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+  .nv3{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.nv3 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .nv3 {
+    transition: all 0.3s;
+  }
+  .nv3::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .nv3:hover{
+    letter-spacing: 2px;
+  }
+  .nv3:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .nv3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .nv3:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+  .nv4{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.nv4 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .nv4 {
+    transition: all 0.3s;
+  }
+  .nv4::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .nv4:hover{
+    letter-spacing: 2px;
+  }
+  .nv4:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .nv4::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .nv4:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+  .nv5{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.nv5 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .nv5 {
+    transition: all 0.3s;
+  }
+  .nv5::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .nv5:hover{
+    letter-spacing: 2px;
+  }
+  .nv5:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .nv5::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .nv5:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+a:hover{
+    color: white;
+}
+.nama_nav{
+    margin-left: 150px;
+    padding-top: 20px;
+    color: dimgray;
+}
+.foto1{
+    width: 320px;
+    height: 450px;
+    margin-left: 150px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.paragraf1{
+    margin-left: 550px;
+    margin-top: -300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.celly{
+    color: dimgray;
+}
+.halaman2{
+    margin-top: 400px;
+}
+.foto2{
+    width: 320px;
+    height: 450px;
+    margin-top: -300px;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.about{
+    margin-left: 600px;
+    margin-top : -400px;
+    color: dimgray;
+}
+h2{
+    color: dimgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about1{
+    margin-left: 600px;
+}
+.contact{
+    margin-top: 100px;
+    text-align: center;
+}
+.kontak{
+    margin-left: 500px;
+    text-align: center;
+}
+.ins{
+    width: 60px;
+    height: 60px;
+    margin-left: 68px;
+    margin-top: 60px;
+}
+.spo{
+    width: 60px;
+    height: 60px;
+    margin-left: 55px;
+    margin-top: 60px;
+}
+.tik{
+    width: 60px;
+    height: 60px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.sosmed{
+    color: dimgray;
+    text-decoration: none;
+}
+.follow{
+    text-align: center;
+    margin-top: 100px;
+}
+.logo{
+    margin-left: 460px;
+}
+.biodata{
+    text-align: center;
+    margin-top: 300px;
+}
+.biodata1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 600px;  
+}
+table tr th{
+    background-color: rgba(233, 150, 122, 0.616);
+    width: 20px;
+}
+.aktifitas{
+    margin-top: -350px;
+    text-align: center;
+}
+.card1{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.card1:hover{
+  background-color: rgb(241, 204, 241);
+  border-radius: 15px;
+}
+.card2{
+    margin-left: 350px;
+    margin-top: -390px;
+}
+.card2:hover{
+  background-color: rgb(241, 204, 241);
+  border-radius: 15px;
+}
+.card3{
+    margin-left: 700px;
+    margin-top: -390px;
+}
+.card3:hover{
+  background-color: rgb(241, 204, 241);
+  border-radius: 15px;
+}
+.card4{
+    margin-left: 1050px;
+    margin-top: -390px;
+}
+.card4:hover{
+  background-color: rgb(241, 204, 241);
+  border-radius: 15px;
+}
+.card-img-top{
+    border-radius: 15px;
+}
+.halaman4{
+    margin-top: -200px;
+}
+.sosmed1{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.sosmed1 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .sosmed1 {
+    transition: all 0.3s;
+  }
+  .sosmed1::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .sosmed1:hover{
+    letter-spacing: 2px;
+  }
+  .sosmed1:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .sosmed1::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .sosmed1:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+  .sosmed2{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.sosmed2 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .sosmed2 {
+    transition: all 0.3s;
+  }
+  .sosmed2::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .sosmed2:hover{
+    letter-spacing: 2px;
+  }
+  .sosmed2:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .sosmed2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .sosmed2s:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+  .sosmed3{
+    color: rgb(83, 83, 83);
+    text-decoration: none;
+}
+.sosmed3 {
+    transition: all 0.3s;
+    position: relative;
+  }
+  .sosmed3 {
+    transition: all 0.3s;
+  }
+  .sosmed3::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    transition: all 0.3s;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgba(34, 30, 30, 0.5);
+    border-bottom-color: rgba(34, 30, 30, 0.5);
+    transform: scale(0.1, 1);
+  }
+  .sosmed3:hover{
+    letter-spacing: 2px;
+  }
+  .sosmed3:hover::before {
+    opacity: 1; 
+    transform: scale(1, 1); 
+  }
+  .sosmed3::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.3s;
+    background-color: rgba(204, 204, 204, 0.267);
+  }
+  .sosmed3:hover::after {
+    opacity: 0; 
+    transform: scale(0.1, 1);
+  }
+  @media screen and (max-width:360px){
+    .nama_nav{
+      margin-left: 10px;
+    }
+    .foto1{
+      margin-left: 60px;
+      width: 240px;
+      height: 270px;
+    }
+    .nav{
+      margin-left: 85px;
+      margin-top: 20px;
+    }
+    .paragraf1{
+      margin-left: -50px;
+      margin-top: 20px;
+      text-align: center;
+    }
+    .navbar{
+      margin-left: -20px;
+      right: 70px;
+      width: 100px;
+    }
+    .navbar .nav tr td h5{
+      width: 70px;
+      text-align: center;
+      font-size: small;
+    }
+    .halaman1{
+      background-image: url(https://www.itl.cat/pngfile/big/317-3178139_pastels-aesthetic-computer-pastel-computer-backgrounds.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 410px;
+    }
+    .nv5{
+      margin-top: -60px;
+    }
+    .foto2{
+      margin-left: 60px;
+      margin-top: -450px;
+      width: 250px;
+      height: 320px;
+    }
+    .about{
+      margin-left: 130px;
+      margin-top: -50px;
+    }
+    .about1{
+      margin-left: 10px;
+      text-align: center;
+      font-size: medium;
+      width: 350px;
+    }
+    .biodata{
+      margin-top: 200px;
+      margin-left: -30px;
+    }
+    .biodata1{
+      width: 350px;
+      margin-left: 5px;
+    }
+    .aktifitas{
+      margin-left: -10px;
+    }
+    .card1{
+      margin-left: 40px;
+    }
+    .card2{
+      margin-top: 10px;
+      margin-left: 40px;
+    }
+    .card3{
+      margin-top: 10px;
+      margin-left: 40px;
+    }
+    .card4{
+      margin-top: 10px;
+      margin-left: 40px;
+    }
+    .card-img-top{
+      width: 288px;
+    }
+    .contact{
+      margin-top: 100px;
+      margin-left: -20px;
+    }
+    .ins{
+      margin-left: -420px;
+    }
+    .kontak{
+      margin-left: 10px;
+    }
+    .follow{
+      font-size: small;
+      margin-left: -30px;
+    }
+  }
